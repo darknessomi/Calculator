@@ -7,3 +7,5 @@
 \\vmware-host\Shared Folders\文稿\Visual Studio 2010\Projects\itsCalc-master\AlCalc\obj\x86\Debug\GenerateResource.write.1.tlog
 \\vmware-host\Shared Folders\文稿\Visual Studio 2010\Projects\itsCalc-master\AlCalc\obj\x86\Debug\AlCalc.exe
 \\vmware-host\Shared Folders\文稿\Visual Studio 2010\Projects\itsCalc-master\AlCalc\obj\x86\Debug\AlCalc.pdb
+\\vmware-host\Shared Folders\文稿\Visual Studio 2010\Projects\Calculator\AlCalc\obj\x86\Debug\AlCalc.exe
+\\vmware-host\Shared Folders\文稿\Visual Studio 2010\Projects\Calculator\AlCalc\obj\x86\Debug\AlCalc.pdb
