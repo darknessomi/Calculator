@@ -16,3 +16,7 @@
 \\psf\Home\Documents\Visual Studio 2010\Projects\Calculator\AlCalc\obj\x86\Debug\AlCalc.Properties.Resources.resources
 \\psf\Home\Documents\Visual Studio 2010\Projects\Calculator\AlCalc\obj\x86\Debug\GenerateResource.read.1.tlog
 \\psf\Home\Documents\Visual Studio 2010\Projects\Calculator\AlCalc\obj\x86\Debug\GenerateResource.write.1.tlog
+\\psf\Home\Documents\Visual Studio 2010\Projects\Calculator\AlCalc\bin\Debug\AlCalc.exe.manifest
+\\psf\Home\Documents\Visual Studio 2010\Projects\Calculator\AlCalc\bin\Debug\AlCalc.application
+\\psf\Home\Documents\Visual Studio 2010\Projects\Calculator\AlCalc\obj\x86\Debug\AlCalc.exe.manifest
+\\psf\Home\Documents\Visual Studio 2010\Projects\Calculator\AlCalc\obj\x86\Debug\AlCalc.application

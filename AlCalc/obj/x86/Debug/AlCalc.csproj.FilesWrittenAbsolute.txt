@@ -1,0 +1,7 @@
+/Users/omi/Documents/Visual Studio 2010/Projects/Calculator/AlCalc/obj/x86/Debug/.NETFramework,Version=v4.0,Profile=Client.AssemblyAttribute.cs
+/Users/omi/Documents/Visual Studio 2010/Projects/Calculator/AlCalc/obj/x86/Debug/AlCalc.FormMain.resources
+/Users/omi/Documents/Visual Studio 2010/Projects/Calculator/AlCalc/obj/x86/Debug/AlCalc.Properties.Resources.resources
+/Users/omi/Documents/Visual Studio 2010/Projects/Calculator/AlCalc/bin/Debug/AlCalc.exe.mdb
+/Users/omi/Documents/Visual Studio 2010/Projects/Calculator/AlCalc/bin/Debug/AlCalc.exe
+/Users/omi/Documents/Visual Studio 2010/Projects/Calculator/AlCalc/obj/x86/Debug/AlCalc.exe
+/Users/omi/Documents/Visual Studio 2010/Projects/Calculator/AlCalc/obj/x86/Debug/AlCalc.exe.mdb

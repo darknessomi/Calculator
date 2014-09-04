@@ -549,7 +549,8 @@
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
             this.MaximizeBox = false;
             this.Name = "FormMain";
-            this.Text = "计算器";
+            this.Text = "Calculator";
+            this.Load += new System.EventHandler(this.FormMain_Load);
             this.panelButton.ResumeLayout(false);
             this.panelOutput.ResumeLayout(false);
             this.ResumeLayout(false);

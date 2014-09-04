@@ -1,0 +1,13 @@
+\\psf\Home\Documents\Visual Studio 2010\Projects\Calculator\AlCalc\bin\Release\AlCalc.exe
+\\psf\Home\Documents\Visual Studio 2010\Projects\Calculator\AlCalc\bin\Release\AlCalc.pdb
+\\psf\Home\Documents\Visual Studio 2010\Projects\Calculator\AlCalc\obj\x86\Release\ResolveAssemblyReference.cache
+\\psf\Home\Documents\Visual Studio 2010\Projects\Calculator\AlCalc\obj\x86\Release\AlCalc.FormMain.resources
+\\psf\Home\Documents\Visual Studio 2010\Projects\Calculator\AlCalc\obj\x86\Release\AlCalc.Properties.Resources.resources
+\\psf\Home\Documents\Visual Studio 2010\Projects\Calculator\AlCalc\obj\x86\Release\GenerateResource.read.1.tlog
+\\psf\Home\Documents\Visual Studio 2010\Projects\Calculator\AlCalc\obj\x86\Release\GenerateResource.write.1.tlog
+\\psf\Home\Documents\Visual Studio 2010\Projects\Calculator\AlCalc\obj\x86\Release\AlCalc.exe
+\\psf\Home\Documents\Visual Studio 2010\Projects\Calculator\AlCalc\obj\x86\Release\AlCalc.pdb
+\\psf\Home\Documents\Visual Studio 2010\Projects\Calculator\AlCalc\bin\Release\AlCalc.exe.manifest
+\\psf\Home\Documents\Visual Studio 2010\Projects\Calculator\AlCalc\bin\Release\AlCalc.application
+\\psf\Home\Documents\Visual Studio 2010\Projects\Calculator\AlCalc\obj\x86\Release\AlCalc.exe.manifest
+\\psf\Home\Documents\Visual Studio 2010\Projects\Calculator\AlCalc\obj\x86\Release\AlCalc.application

@@ -450,5 +450,10 @@ namespace AlCalc
             }
             return false;
         }
+
+        private void FormMain_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
